@@ -26,3 +26,5 @@ console.log("-")
 for (let pais of paises){
   console.log(pais)
 }
+
+
