@@ -1,3 +1,6 @@
 let paises = [];
-//teste
-let cidade = [];
+
+paises.push("Brasil ", "Argentina ", "Colombia ", "Equador")
+
+
+console.table(paises)
