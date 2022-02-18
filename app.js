@@ -2,7 +2,6 @@ let paises = [];
 
 paises.push("Brasil ", "Argentina ", "Colombia ", "Equador ", "Alemanha ", "Espanha ");
 
-
 console.table(paises);
 
 console.log("-")
